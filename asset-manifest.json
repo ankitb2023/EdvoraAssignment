@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EdAssignment/static/css/main.42d75c0a.css",
+    "main.js": "/EdAssignment/static/js/main.69fa64e8.js",
+    "static/media/map.png": "/EdAssignment/static/media/map.17150d1e6e6206c37ec5.png",
+    "static/media/logo.svg": "/EdAssignment/static/media/logo.805da4083a36ad441819aa42251002b6.svg",
+    "index.html": "/EdAssignment/index.html",
+    "main.42d75c0a.css.map": "/EdAssignment/static/css/main.42d75c0a.css.map",
+    "main.69fa64e8.js.map": "/EdAssignment/static/js/main.69fa64e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42d75c0a.css",
+    "static/js/main.69fa64e8.js"
+  ]
+}
